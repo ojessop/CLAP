@@ -1,0 +1,17 @@
+Package: clapPackage
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Olivia", "Jessop",
+      email = "uqojesso@uq.edu.au",
+      role = c("aut", "cre")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+Depends: R (>= 4.0), shiny (>= 1.10.0), shinyFiles, readr, tcltk
+License: MIT
+Encoding: UTF-8
+LazyData: true
